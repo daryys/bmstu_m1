@@ -1,2 +1,7 @@
-# bmstu_m1
-BMSTU magister1 docs
+## Магистрские работы
+В данном репозитории находятся работы, выполненные во время обучения в магистратуре на направлении: </br> "Интеллектуальные системы анализа, обработки и интерпретации больших данных", МГТУ им. Н.Э. Баумана
+
+### Навигация по папкам:
+- [Базы данных](https://github.com/daryys/bmstu_m1/tree/main/DB)
+- [Машинное обучение](https://github.com/daryys/bmstu_m1/tree/main/MachineLearning)
+- [Дистанционный мониторинг сложных систем и процессов](https://github.com/daryys/bmstu_m1/tree/main/RemoteMonitoring)
